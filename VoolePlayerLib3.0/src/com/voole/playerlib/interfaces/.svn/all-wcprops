@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces
+END
+IStatusView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces/IStatusView.java
+END
+IControllerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces/IControllerView.java
+END
+ISelecterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces/ISelecterView.java
+END
+ITitleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces/ITitleView.java
+END
+IBaseUIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/interfaces/IBaseUIView.java
+END

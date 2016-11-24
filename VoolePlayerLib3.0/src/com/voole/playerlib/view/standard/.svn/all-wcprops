@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard
+END
+DSJItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/DSJItem.java
+END
+PlaySeriesListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/PlaySeriesListView.java
+END
+DSJSelecterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/DSJSelecterView.java
+END
+PlaySelectItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/PlaySelectItem.java
+END
+ControllerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/ControllerView.java
+END
+DSJListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/DSJListView.java
+END
+TitleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/TitleView.java
+END
+DSJSelecterViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/DSJSelecterViewTest.java
+END
+PlaySeriesScrollBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/PlaySeriesScrollBar.java
+END
+StatusView.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/StatusView.java
+END
+DSJAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/DSJAdapter.java
+END
+PlayVooleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/PlayVooleAdapter.java
+END
+PlayProgressbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/PlayProgressbar.java
+END
+ProgressView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/ProgressView.java
+END
+FilmSelecterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/standard/FilmSelecterView.java
+END

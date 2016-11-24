@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/579665/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view
+END
+UIController.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/UIController.java
+END
+MediaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/MediaController.java
+END
+IVideoViewListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/IVideoViewListener.java
+END
+PlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/PlayItem.java
+END
+IPlayItemListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/IPlayItemListener.java
+END
+BasePlayerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/BasePlayerActivity.java
+END
+PlayMessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/566845/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/PlayMessageInfo.java
+END
+VooleVideoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/579665/06AUTOREALEASE/D_A_APK/d01_apk/d0106_player_ui/branches/dev/player_ui/src/com/voole/playerlib/view/VooleVideoView.java
+END
